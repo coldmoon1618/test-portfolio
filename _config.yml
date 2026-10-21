@@ -16,12 +16,12 @@ author: Ela Gray
 bio:
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
+image: /assets/img/pic_Ela_profile.jpg #emoji-cool.png
 email:
 github_profile:
 department:
 orcid:
-cv:
+cv: #Put in the assets folder and then link it to include the pdf
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
